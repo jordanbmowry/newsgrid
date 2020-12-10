@@ -106,6 +106,7 @@ h6 {
 
 .btn:hover {
 	opacity: 0.9;
+	cursor: pointer;
 }
 
 .card {
@@ -174,7 +175,7 @@ h6 {
 .list li a:hover {
 	color: var(--primary-color) !important;
 }
- 
+
 /* Inner Page Container */
 .page-container {
 	display: grid;
