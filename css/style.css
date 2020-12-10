@@ -338,7 +338,7 @@ h6 {
 	margin-bottom: 0.5rem;
 }
 
-#main-footer .footer-container input[type='submit'] {
+#main-footer .footer-container button[type='submit'] {
 	width: 90%;
 	background: var(--primary-color);
 	display: inline-block;
@@ -347,6 +347,6 @@ h6 {
 	padding: 0.5rem 1.5rem;
 }
 
-#main-footer .footer-container input[type='submit']:hover {
+#main-footer .footer-container button[type='submit']:hover {
 	cursor: pointer;
 }
